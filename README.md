@@ -3,7 +3,8 @@
 ## About Me
 Hi, I'm Marina Pavlovic. I am a data analyst with a Level 7 education in Applied Data Technologies and a proven ability to leverage data analysis for strategic decision-making. Currently pursuing a Higher Diploma in Computing Science (AI/ML). I am passionate about data science and looking to transition into a career focused on resolving real-world problems by utilising my skills.
 
-## Link to full CV:  [[Resume: Marina Pavlovic](Marina-Pavlovic-s-Portfolio/Marina_Pavlovic_Resume.pdf)](https://github.com/MarinaPavlovic-ai/Marina-Pavlovic-s-Portfolio/blob/57541cd8c482b5c651a48bb6d100a6f9636c9668/Marina_Pavlovic_Resume.pdf)
+## Link to full CV:  [Resume: Marina Pavlovic](Marina-Pavlovic-s-Portfolio/Marina_Pavlovic_Resume.pdf)
+
 
 ## Skills
 - Problem-solving

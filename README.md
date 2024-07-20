@@ -3,7 +3,7 @@
 ## About Me
 Hi, I'm Marina Pavlovic. I am a data analyst with a Level 7 education in Applied Data Technologies and a proven ability to leverage data analysis for strategic decision-making. Currently pursuing a Higher Diploma in Computing Science (AI/ML). I am passionate about data science and looking to transition into a career focused on resolving real-world problems by utilising my skills.
 
-## Link to full CV:  [Marina Pavlovic](https://github.com/MarinaPavlovic-ai/Marina-Pavlovic-s-Portfolio/blob/main/Marina_Pavlovic_Resume.pdf)
+## Link to full CV: [Marina Pavlovic](https://github.com/MarinaPavlovic-ai/Marina-Pavlovic-s-Portfolio/blob/main/Marina_Pavlovic_Resume.pdf)
 
 
 ## Skills
@@ -27,8 +27,8 @@ Hi, I'm Marina Pavlovic. I am a data analyst with a Level 7 education in Applied
 - **Description**: Conducted thorough analysis using Jupyter Notebook, culminating in a comprehensive report and PowerPoint presentation.
 - **Technologies Used**: Python, Jupyter Notebook
 - **Code**: [Navigating Tomorrow - The Interconnected Realms of AI Evolution, Politics, and Societal Liberty](https://github.com/MarinaPavlovic-ai/MarinaPavlovic-ai/blob/main/Navigating%20Tomorrow%20-%20The%20Interconnected%20Realms%20of%20AI%20Evolution%2C%20Politics%2C%20and%20Societal%20Liberty.ipynb)
-- **Report**:[Report: Navigating Tomorrow - The Interconnected Realms of AI Evolution, Politics, and Societal Liberty](MarinaPavlovic-ai/Report%2C%20Navigating%20Tomorrow%20-%20The%20Interconnected%20Realms%20of%20AI%20Evolution%20Politics%20and%20Societal%20Liberty.pdf)
-- **PowerPoint**:[Presentation: Navigating Tomorrow - The Interconnected Realms of AI Evolution, Politics, and Societal Liberty](MarinaPavlovic-ai/Navigating%20Tomorrow%20-%20The%20Interconnected%20Realms%20of%20AI%20Evolution%2C%20Politics%2C%20and%20Societal%20Liberty.pptx)
+- **Report**:[Report: Navigating Tomorrow](MarinaPavlovic-ai/Report%2C%20Navigating%20Tomorrow%20-%20The%20Interconnected%20Realms%20of%20AI%20Evolution%20Politics%20and%20Societal%20Liberty.pdf)
+- **PowerPoint**:[Presentation: Navigating Tomorrow](MarinaPavlovic-ai/Navigating%20Tomorrow%20-%20The%20Interconnected%20Realms%20of%20AI%20Evolution%2C%20Politics%2C%20and%20Societal%20Liberty.pptx)
 
 
 # Project 2: World Population Trends Analysis
@@ -38,12 +38,12 @@ Hi, I'm Marina Pavlovic. I am a data analyst with a Level 7 education in Applied
 - **Report**:[Report: World Population Trends Analysis](MarinaPavlovic-ai/Report%20-%20World%20Population%20Trends%20Analysis.pdf)
 
 # Diplomas: 
-- **ATU Donegal Level 7 Diploma in Applied Data Technologies**:[https://github.com/MarinaPavlovic-ai/Diplomas/blob/9dfed0a26bf033ec4595932a1c51c80be6ca5338/Level%207%2C%20ADT.pdf](https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/Level%207%2C%20ADT.pdf)
-- **Open College Level 6 Diploma in Finance**:[ https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/Marina%20Pavlovic%2C%20Finance%20Level%206.pdf](https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/Marina%20Pavlovic%2C%20Finance%20Level%206.pdf)
-- **Centre of Exelence Excel Diploma**:[https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/excel-diploma-7511%5B2169%5D.pdf ](https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/excel-diploma-7511%5B2169%5D.pdf)
+- **ATU Donegal NFQ Level 7 Diploma**:[Applied Data Technologies](https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/Level%207%2C%20ADT.pdf)
+- **Open College Level 6 Diploma**:[Finance](https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/Marina%20Pavlovic%2C%20Finance%20Level%206.pdf)
+- **Centre of Exelence Diploma**:[Excel](https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/excel-diploma-7511%5B2169%5D.pdf)
 
   # Contact:
-- **Email**: [marinapavlovic87@gmail.com](mailto:marinapavlovic87@gmail.com)
-- **LinkedIn**: [Marina Pavlovic](https://www.linkedin.com/in/marina-pavlovic-8800a240)
+- **Email**: [Gmail](mailto:marinapavlovic87@gmail.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/marina-pavlovic-8800a240)
 
 Thank you for visiting my portfolio!

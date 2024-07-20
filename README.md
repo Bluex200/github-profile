@@ -5,7 +5,6 @@ Hi, I'm Marina Pavlovic. I am a data analyst with a Level 7 education in Applied
 
 ## Link to full CV:  [Resume: Marina Pavlovic](Marina_Pavlovic_Resume.pdf)
 
-
 ## Skills
 - Problem-solving
 - Data analysis

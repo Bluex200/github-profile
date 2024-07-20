@@ -36,5 +36,13 @@ Hi, I'm Marina Pavlovic. I am a data analyst with a Level 7 education in Applied
 - **Code**: [World Population Trends Analysis](World%20Population%20Trends.twbx)
 - **Report**:[Report: World Population Trends Analysis](MarinaPavlovic-ai/Report%20-%20World%20Population%20Trends%20Analysis.pdf)
 
+# Diplomas: 
+- **ATU Donegal Level 7 Diploma in Applied Data Technologies**:[https://github.com/MarinaPavlovic-ai/Diplomas/blob/9dfed0a26bf033ec4595932a1c51c80be6ca5338/Level%207%2C%20ADT.pdf](https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/Level%207%2C%20ADT.pdf)
+- **Open College Level 6 Diploma in Finance**:[ https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/Marina%20Pavlovic%2C%20Finance%20Level%206.pdf](https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/Marina%20Pavlovic%2C%20Finance%20Level%206.pdf)
+- **Centre of Exelence Excel Diploma**:[https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/excel-diploma-7511%5B2169%5D.pdf ](https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/excel-diploma-7511%5B2169%5D.pdf)
+
+  # Contact:
+- **Email**: [marinapavlovic87@gmail.com](mailto:marinapavlovic87@gmail.com)
+- **LinkedIn**: [Marina Pavlovic](https://www.linkedin.com/in/marina-pavlovic-8800a240)
 
 Thank you for visiting my portfolio!

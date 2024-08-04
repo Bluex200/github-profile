@@ -36,7 +36,7 @@ Studying mathematics as a hobby has provided me with the necessary knowledge to 
 # Diplomas: 
 - **ATU Donegal NFQ Level 7 Diploma**:[Applied Data Technologies](https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/Level%207%2C%20ADT.pdf)
 - **Open College Level 6 Diploma**:[Finance](https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/Marina%20Pavlovic%2C%20Finance%20Level%206.pdf)
-- **Centre of Exelence Diploma**:[Excel](https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/excel-diploma-7511%5B2169%5D.pdf)
+- **Centre of Exelence Certificaete**:[Excel](https://github.com/MarinaPavlovic-ai/Diplomas/blob/main/excel-diploma-7511%5B2169%5D.pdf)
 
   # Contact:
 - **Email**: [Gmail](mailto:marinapavlovic87@gmail.com)

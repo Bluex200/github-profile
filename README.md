@@ -10,7 +10,7 @@ I am currently pursuing a Higher Diploma in Computing Science with a specializat
 Studying mathematics as a hobby has provided me with the necessary knowledge to understand subject matter on a deeper level. I am passionate about data science and am looking to transition into a career focused on resolving real-world problems by utilizing my skills.
 
 
-## Link to full CV: Marina Pavlovic.pdf
+## Link to full CV: [Marina Pavlovic](https://github.com/MarinaPavlovic-ai/Marina-Pavlovic-s-Portfolio/blob/9031b1200d5bc9c565f8917bf0e6187b168cc2db/Marina%20Pavlovic.pdf)
 
 ## Education
 - **Science in Computing (AI/ML), NFQ Level 8 Diploma** - National College of Ireland, Expected August 2025

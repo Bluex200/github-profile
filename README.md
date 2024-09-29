@@ -5,7 +5,7 @@ Hi, I'm Marina Pavlovic. I am a data analyst with a Level 7 education in Applied
 
 Throughout my career in fashion retail, I have developed a unique sense for problem-solving and leveraging sales data to improve sales and performance. I excel in communication and collaboration across all functions to achieve common goals.
 
-I am currently pursuing a Higher Diploma in Computing Science with a specialization in Artificial Intelligence and Machine Learning. This program is enhancing my knowledge of software development, engineering, web development, blockchain, and all necessary components to utilize ML and AI more efficiently. I am intrigued by emerging technologies that, when utilized with care, can bring significant improvements to our everyday lives, and I wish to be a part of this progress.
+I am currently pursuing a Higher Diploma in Computing Science Specializingn in Artificial Intelligence and Machine Learning. This program is enhancing my knowledge of software development, engineering, web development, and all necessary components to utilize ML and AI more efficiently. I am intrigued by emerging technologies that, when utilized with care, can bring significant improvements to our everyday lives, and I wish to be a part of this progress.
 
 Studying mathematics as a hobby has provided me with the necessary knowledge to understand subject matter on a deeper level. I am passionate about data science and am looking to transition into a career focused on resolving real-world problems by utilizing my skills.
 

@@ -57,7 +57,7 @@ Technologies Used: Java, Object-Oriented Programming (OOP)
 
 📬 Contact Me
 📧 Email: marinapavlovic87@gmail.com
-🔗 LinkedIn: Marina Pavlovic
+🔗 LinkedIn: [Marina Pavlovic](https://www.linkedin.com/in/marina-pavlovic-ai/)
 
 Thank you for visiting my portfolio! Feel free to connect or explore my work. 🚀
 

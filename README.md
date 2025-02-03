@@ -19,34 +19,42 @@ I am passionate about emerging technologies and their impact on businesses and s
 📎 View My CV
 
 🎓 Education
+
 🎓 Higher Diploma in Computing Science (AI/ML), NFQ Level 8 – National College of Ireland (Expected August 2025)
 🎓 Applied Data Technologies, NFQ Level 7 – ATU Donegal (May 2024)
 📊 Finance, QQI Level 6 Award – Open College (May 2023)
 📈 Excel Certification – Centre of Excellence (February 2023)
+
 📂 Projects
+
 🧠 Project 1: Navigating Tomorrow – AI, Politics, and Societal Liberty
 Description: Analyzed the relationship between AI advancements, political regimes, and societal impact using data-driven methods. Explored how democracies and authoritarian governments deploy AI, highlighting trends in ethics, regulation, and governance.
 Technologies Used: Python, Jupyter Notebook, Excel, Word
 📜 Code: Jupyter Notebook
 📄 Report: Full Report
 📊 Presentation: PowerPoint Slides
+
 🌍 Project 2: World Population Trends Analysis
 Description: Leveraged Tableau to analyze global population trends, uncovering patterns in demographics, growth rates, and regional differences. Published an interactive dashboard on Tableau Public.
 Technologies Used: Tableau, Data Visualization
 📜 Dashboard: World Population Trends
 📄 Report: Full Report
+
 🛍️ Project 3: Fashion Store Database
 Description: Designed and implemented a relational database for a fashion retail store, optimizing customer management, order tracking, and data consistency. Developed SQL queries for data retrieval, trend analysis, and integrity enforcement.
 Technologies Used: SQL (MySQL, SQL Server), Data Modeling, Normalization
 📜 Code: Fashion Store Database
+
 🏋️ Project 4: Fitness App
 Description: Developed a Java-based fitness tracking application, enabling users to log workouts, set goals, and monitor progress. Implemented OOP principles to structure the application efficiently.
 Technologies Used: Java, Object-Oriented Programming (OOP)
 📜 Code: Fitness App Repository
+
 📜 Diplomas & Certifications
 📜 NFQ Level 7 Diploma: Applied Data Technologies
 📜 QQI Level 6 Diploma: Finance
 📜 Excel Certification: Centre of Excellence
+
 📬 Contact Me
 📧 Email: marinapavlovic87@gmail.com
 🔗 LinkedIn: Marina Pavlovic
